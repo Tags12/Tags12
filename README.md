@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yomi Taiwo
+- 👋 Hi, I’m Abayomi Taiwo, Ph.D., MIPAN
 - 👀 I’m interested in development of a Platform and App for Marine waste management in sustainable development
 - 🌱 I’m currently learning business administration for use in this business, product, service, process and system development
 - 💞️ I’m looking to collaborate on on this business analysis and development
